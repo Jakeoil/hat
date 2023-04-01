@@ -1,3 +1,4 @@
+// Sqrt 3
 const r3 = 1.7320508075688772;
 const hr3 = 0.8660254037844386;
 const ident = [1, 0, 0, 0, 1, 0];
@@ -11,6 +12,7 @@ let scale_centre;
 let scale_start;
 let scale_ts;
 
+// buttons
 let reset_button;
 let subst_button;
 let translate_button;
